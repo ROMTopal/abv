@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Skendy</string>
+    <string name="facebook_app_id">1240693380193808</string>
+    <string name="fb_login_protocol_scheme">fb1240693380193808</string>
+    <string name="facebook_client_token">76927127619528ec41f41d19215d5135</string>
+</resources>
